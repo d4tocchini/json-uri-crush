@@ -1,0 +1,19 @@
+{
+  "name": "json-uri-crush",
+  "version": "1.0.0",
+  "description": "This simple system allows for excellent compression of uri encoded JSON strings using the JSCrush algorithm.",
+  "main": "json-uri-crush.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4tocchini/json-uri-crush.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d4tocchini/json-uri-crush/issues"
+  },
+  "homepage": "https://github.com/d4tocchini/json-uri-crush#readme"
+}
